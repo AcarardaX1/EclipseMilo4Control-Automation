@@ -7,3 +7,7 @@ Includes Subscription Policy to client-device-node relationships including the l
 The code connects to the machine through TCP ports and having a possibility to inspect.(For an instance UA Expert)
 
 Eclipse Milo, Jakarta, JPA, Maven dependencies have been used for the project and possible implications may be connecting also by postgreSQL/MySQL and Payara Services
+
+This branch includes more layer to the "main" (branch) one. 
+
+Thanks to @eclipse-milo and @dmainardi
