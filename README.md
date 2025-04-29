@@ -10,4 +10,4 @@ Eclipse Milo, Jakarta, JPA, Maven dependencies have been used for the project an
 
 This is a more compact and proper one according to the "master" (branch) one.
 
-Thanks to @eclipse-milo and @dmainardi
+Thanks to @eclipse-milo and @dmainardi 
